@@ -187,7 +187,7 @@ FUTURE_DS_01
 
 # Dashboard Preview
 
-![Dashboard Preview](Screenshots/Screenshot_task1.png)
+![Dashboard Preview](Pictures/Screenshots/Screenshot_task1.png)
 
 ---
 
