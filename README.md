@@ -187,7 +187,7 @@ FUTURE_DS_01
 
 # Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard-overview.png)
+![Dashboard Preview](Screenshot 2026-05-11 200621.png)
 
 ---
 
