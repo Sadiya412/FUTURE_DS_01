@@ -187,7 +187,8 @@ FUTURE_DS_01
 
 # Dashboard Preview
 
-![Dashboard Preview](Screenshot 2026-05-11 200621.png)
+<img width="1145" height="652" alt="dashboard-overview" src="https://github.com/user-attachments/assets/f6226901-0446-4c30-8b3e-19918db8509c" />
+
 
 ---
 
